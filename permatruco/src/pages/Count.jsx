@@ -28,7 +28,7 @@ export function Count() {
       </Container>
     );
   };
-  return <Countdown date={"2023-06-02T12:00:00"} renderer={renderer} />;
+  return <Countdown date={"2023-07-02T12:00:00"} renderer={renderer} />;
 }
 const Container = styled.div`
   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
